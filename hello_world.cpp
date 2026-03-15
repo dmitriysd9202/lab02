@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+<<<<<<< HEAD
 int main() {
     // Запрашиваем имя пользователя.
     std::string name;
@@ -9,4 +10,4 @@ int main() {
     // Выводим приветствие.
     std::cout << "Hello world from " << name << std::endl;
     return 0;
-}
+=======
